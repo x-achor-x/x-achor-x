@@ -1,5 +1,5 @@
-## Hi there 👋
-[![sjendade's 42 stats](https://badge.mediaplus.ma/binary/sjendade)](https://github.com/oakoudad/badge42)
+## Hi there 
+[![sjendade's 42 stats](https://badge.mediaplus.ma/starryblue/sjendade)](https://github.com/oakoudad/badge42)
 <!--
 **x-achor-x/x-achor-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
